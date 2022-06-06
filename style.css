@@ -1,0 +1,46 @@
+body{
+    background-color:  #f5f5dd;
+}
+div{
+    width: 100px;
+    height: 100px;
+    margin: 25px auto 25px;
+    padding: 22px;
+
+}
+.sq1{ 
+    background-color:black;
+
+}
+.sq2{
+  background-color:   rgba(0,0,0,0.7);
+
+}
+.sq3{
+
+    background-color:   rgba(0,0,0,0.5);
+}
+.sq4{
+
+    background-color:   rgba(0,0,0,0.3);
+}
+
+
+ /* sposób nr2 */
+/* .sq1{ 
+    background-color:black;
+
+}
+.sq2{
+  background-color:   hsl(120, 100%, 0%, 80%);
+
+}
+.sq3{
+
+    background-color:   hsl(120, 100%, 0%, 60%);
+}
+.sq4{
+
+    background-color:   hsl(120, 100%, 0%, 40%);
+}
+*/
